@@ -4,3 +4,4 @@ This File contains different algorithms basaed on Data Structures and Algorithms
 Contents:
 1) A simple Fibonacci algorithm.
 2) Greatest Common Devisor.
+3) Least Common Multiple
