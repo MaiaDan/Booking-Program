@@ -11,5 +11,9 @@ Contents:
 - Minimum No. of candies ( HackerRank )
 - Non Degenatrative Triangle ( HackerRank )
 - Minimum number of miles ( HackerRank )
-- LinkedList
+- LinkedList& Stack
+- Binary Search
+- Money Cahnge Problem
+- Money Change using Dynamic Programming
+- knapsack 
 
