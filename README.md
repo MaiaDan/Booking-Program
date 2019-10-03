@@ -1,5 +1,5 @@
 # Algorithms
-This File contains different algorithms basaed on Data Structures and Algorithms Specialization Coursera course.
+This File contains different algorithms exercises.
 
 Contents:
 1) A simple Fibonacci algorithm.
